@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.active{
+    border-right: 3px solid #0076A8;
+}
+
+main{
+    width: 100%;
+    padding: 20px;
+  }
