@@ -19,3 +19,23 @@ Backend (NestJS)
 typeorm + pg : ORM et driver PostgreSQL
 class-validator : Validation des données
 bash
+
+Cloner le dépôt
+https://github.com/Rakotomampiandry/TechWebb.git
+
+Installer les dépendances
+npm install
+
+Configurer l'environnement
+.env
+
+Frontend (Vite React)
+React : Framework javascript
+
+react + react-dom : Bibliothèque UI
+
+axios : Appels API
+
+bash cd sun-co/client
+
+Installer les dépendances npm install
